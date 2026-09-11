@@ -4,8 +4,8 @@ Official downloads for the Inttegro plugins that connect WordPress and WooCommer
 
 ## Install
 
-- [Download Inttegro for WordPress 1.1.0](https://github.com/zebodotdev/inttegro-extensions/releases/download/v1.1.0/inttegro-wordpress-1.1.0.zip)
-- [Download Inttegro for WooCommerce 1.1.0](https://github.com/zebodotdev/inttegro-extensions/releases/download/v1.1.0/inttegro-woocommerce-1.1.0.zip)
+- [Download Inttegro for WordPress 1.1.0](https://github.com/inttegro/inttegro-extensions/releases/download/v1.1.0/inttegro-wordpress-1.1.0.zip)
+- [Download Inttegro for WooCommerce 1.1.0](https://github.com/inttegro/inttegro-extensions/releases/download/v1.1.0/inttegro-woocommerce-1.1.0.zip)
 - [Read the setup guides](https://studio.inttegro.com/extensions)
 
 Install the WordPress plugin first. The WooCommerce extension depends on it.
